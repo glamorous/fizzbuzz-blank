@@ -37,6 +37,6 @@ FizzBuzz
 Requirements
 -------------
 
-- Use PHP 7.3+.
+- Use PHP 8.5+.
 - The game should be "played" to the number 100.
 - A class `Game` (in `src`-folder) will be initialized and a method `play` will be called. This will print the results of the above game.
